@@ -4,3 +4,4 @@ A first repository for learning the basics
   
 **Students:**  
 - *Add your name to this list*
+- Niels Pintens
